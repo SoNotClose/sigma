@@ -1,0 +1,14 @@
+[
+  {
+    "displayName": "UNITYBOT",
+    "Id": "1234567890",
+    "tier": "DEV",
+    "tracked": true
+  },
+  {
+    "displayName": "Player2",
+    "Id": "0987654321",
+    "tier": "Silver",
+    "tracked": false
+  }
+]
